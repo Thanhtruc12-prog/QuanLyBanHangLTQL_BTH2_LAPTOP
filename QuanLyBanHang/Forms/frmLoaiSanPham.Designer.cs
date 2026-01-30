@@ -203,7 +203,7 @@
             Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Margin = new Padding(4, 3, 4, 3);
             Name = "frmLoaiSanPham";
-            Text = "frmLoaiSanPham";
+            Text = "Loại sản phẩm";
             Load += frmLoaiSanPham_Load;
             grbLSP.ResumeLayout(false);
             grbLSP.PerformLayout();

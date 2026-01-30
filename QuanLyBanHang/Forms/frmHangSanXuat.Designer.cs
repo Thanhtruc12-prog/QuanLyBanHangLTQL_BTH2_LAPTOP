@@ -204,7 +204,7 @@
             Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Margin = new Padding(4, 3, 4, 3);
             Name = "frmHangSanXuat";
-            Text = "frmHangSanXuat";
+            Text = "Hãng sản xuất";
             Load += frmHangSanXuat_Load;
             grbHSX.ResumeLayout(false);
             grbHSX.PerformLayout();
